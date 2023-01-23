@@ -1,0 +1,1 @@
+start "Next Level Ark" /normal "D:\asmdata\Servers\Server1\ShooterGame\Binaries\Win64\ShooterGameServer.exe" Ragnarok?listen?Port=7777?QueryPort=27015?MaxPlayers=70?AllowCrateSpawnsOnTopOfStructures=True -AutoDestroyStructures -EnableIdlePlayerKick -NoBattlEye -useallavailablecores -usecache -nosteamclient -game -server -log
